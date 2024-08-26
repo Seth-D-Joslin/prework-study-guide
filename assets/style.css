@@ -29,6 +29,10 @@ ul {
     font-size: 20px;
 }
 
+ul li { 
+    padding: 5px 0px;
+}
+
 p {
     text-align: center;
     font-size: 30px;
